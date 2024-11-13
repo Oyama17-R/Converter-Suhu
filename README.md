@@ -3,7 +3,7 @@
 # Converter-Suhu
 Temperatur Convert Suhu
 
-Tugas 1 PBO
+Tugas 2 PBO
 
 Nama : M. Ridwan Hasani
 
